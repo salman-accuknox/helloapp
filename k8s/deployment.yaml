@@ -30,7 +30,6 @@ metadata:
   policy: new
 spec:
   selector:
-    app: my-golang-app
   ports:
     - protocol: TCP
       port: 8080
